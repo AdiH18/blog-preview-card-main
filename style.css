@@ -65,12 +65,14 @@ zoom: 103%;
   font-size: 0.9rem;
   font-weight: 700;
 }
+
 .title{
   align-self: flex-start;
   margin: 1rem 1.5rem 1rem 1.5rem;
   font-weight: 800;
   font-size: 1.4rem;
 }
+
 .infos{
   align-self: flex-start;
   margin: 0rem 1.5rem 0rem 1.5rem;
@@ -83,6 +85,7 @@ zoom: 103%;
 p {
  margin: 0rem;
 }
+
 .signature{
   align-self: flex-start;
   display: flex;
@@ -92,6 +95,7 @@ p {
   font-weight: 800;
   font-size: 1rem;
 }
+
 .avatar{
   zoom: 50%;
 }
