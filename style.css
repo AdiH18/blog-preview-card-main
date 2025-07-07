@@ -103,7 +103,16 @@ p {
 
 @media screen and (min-width:46.875em){
 
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+  
   section{
+
     max-width: 50%;
   }
 
