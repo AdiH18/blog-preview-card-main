@@ -8,6 +8,11 @@
 
 }
 
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 body{
 background: var(--bgcolormain);
 display:flex;
@@ -110,7 +115,7 @@ p {
     min-height: 100vh;
     margin: 0;
   }
-  
+
   section{
 
     max-width: 50%;
