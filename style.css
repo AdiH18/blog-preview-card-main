@@ -28,7 +28,7 @@ box-shadow: var(--box-shadow-default);
 border-radius: 1.5rem;
 border: solid 0.0625rem black;
 max-width: 93%;
-font-family: Figtree, Arial, Helvetica;
+font-family: Figtree, Arial, Helvetica, sans-serif;
 letter-spacing: -0.06rem;
 }
 
@@ -103,7 +103,7 @@ p {
 @media screen and (min-width:46.875em){
 
   section{
-    max-width: 20%;
+    max-width: 50%;
   }
 
   .title{
