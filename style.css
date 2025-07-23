@@ -108,7 +108,14 @@ p {
 }
 
 a:hover{
-  opacity: 50%;
+  opacity: 70%;
+}
+a{ 
+  all: unset;
+  cursor: pointer;
+  
+
+
 }
 
 @media screen and (min-width:46.875em){
